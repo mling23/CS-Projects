@@ -1,0 +1,600 @@
+Group: Average Exp: 5.8Average Stamina: 5.6Returning members: 2
+Maurita
+Todd
+Fanni
+Angy
+Garfinkel
+Group: Average Exp: 6Average Stamina: 5.2Returning members: 2
+Amy
+Julee
+Jaleh
+Mordecai
+Laurice
+Group: Average Exp: 5.8Average Stamina: 6.4Returning members: 3
+Clem
+Igor
+Ingrid
+Fanechka
+Leela
+Group: Average Exp: 8.4Average Stamina: 5.2Returning members: 1
+Joab
+Charmian
+Barnaby
+Roseann
+Jefferson
+Group: Average Exp: 5.2Average Stamina: 5.4Returning members: 2
+Belle
+Doralia
+Rachel
+Conney
+Elisabet
+Group: Average Exp: 6.2Average Stamina: 5.6Returning members: 2
+Othella
+Gabey
+Cassi
+Dorise
+Talia
+Group: Average Exp: 5.4Average Stamina: 5.2Returning members: 2
+Dolorita
+Raymund
+Fatima
+Thorstein
+Koren
+Group: Average Exp: 5.2Average Stamina: 7.8Returning members: 3
+Vivianne
+Shara
+Fionna
+Sayres
+Frances
+Group: Average Exp: 5.6Average Stamina: 6.4Returning members: 2
+Donal
+Berni
+Mignon
+Brandice
+Sibbie
+Group: Average Exp: 7Average Stamina: 5.8Returning members: 4
+Hollis
+Casper
+Angeline
+Hunter
+Mame
+Group: Average Exp: 7Average Stamina: 6Returning members: 1
+Spencer
+Taffy
+Leila
+Tine
+Ivan
+Group: Average Exp: 9.2Average Stamina: 7.2Returning members: 4
+Zebulen
+Susan
+Giavani
+Brynna
+Lorine
+Group: Average Exp: 8.8Average Stamina: 8Returning members: 5
+Barthel
+Sylvie
+Israel
+Sullivan
+Halli
+Group: Average Exp: 7.8Average Stamina: 7Returning members: 1
+Marketa
+Paulo
+Karola
+Elijah
+Desdemona
+Group: Average Exp: 7.8Average Stamina: 7.2Returning members: 4
+Niccolo
+Arianne
+Laurent
+Sonny
+Maryrose
+Group: Average Exp: 9.4Average Stamina: 8.8Returning members: 3
+Jerrie
+Nisa
+Dedra
+Olympie
+Ford
+Group: Average Exp: 8.8Average Stamina: 8.8Returning members: 4
+Bard
+Adah
+Quigman
+Lucilia
+Betsy
+Group: Average Exp: 9.2Average Stamina: 9Returning members: 3
+Harrie
+Rosamund
+Pace
+Neel
+Enriqueta
+Group: Average Exp: 9Average Stamina: 8Returning members: 3
+Zippy
+Edyth
+Rosana
+Gwennie
+Burt
+Group: Average Exp: 9Average Stamina: 7.2Returning members: 3
+Melodee
+Marinna
+Sutherland
+Rozanne
+Rickey
+Group: Average Exp: 9.2Average Stamina: 8.4Returning members: 1
+Theo
+Letty
+Fowler
+Amandi
+Sashenka
+Group: Average Exp: 9.2Average Stamina: 8.4Returning members: 1
+Benetta
+Rockwell
+Natalia
+Suzetta
+Sammie
+Group: Average Exp: 8.8Average Stamina: 8.4Returning members: 3
+Leopold
+Batholomew
+Phillis
+Stormi
+Nari
+Group: Average Exp: 7.2Average Stamina: 6.6Returning members: 3
+Oliver
+Duane
+Kissee
+Cassaundra
+Benedikta
+Group: Average Exp: 9.2Average Stamina: 8.2Returning members: 3
+Kalil
+Mella
+Miran
+Sophia
+Audrye
+Group: Average Exp: 9.2Average Stamina: 8.8Returning members: 3
+Karita
+Selina
+Raoul
+Corissa
+Cherin
+Group: Average Exp: 9.2Average Stamina: 8Returning members: 1
+Annamarie
+Colleen
+Trev
+Parrnell
+Jean-Pierre
+Group: Average Exp: 7.4Average Stamina: 7.2Returning members: 5
+Loria
+Ilysa
+Gustavus
+Larina
+Dolly
+Group: Average Exp: 9Average Stamina: 8.4Returning members: 1
+Jameson
+Tiphany
+Amandie
+Fedora
+Donetta
+Group: Average Exp: 8.4Average Stamina: 7Returning members: 4
+Henrie
+Mikey
+Greg
+Zorine
+Davina
+Group: Average Exp: 9.2Average Stamina: 9.2Returning members: 2
+Glenna
+Hiram
+Cindee
+Alis
+Jemima
+Group: Average Exp: 8.8Average Stamina: 8Returning members: 4
+Maryl
+Marion
+Jemimah
+Julissa
+Husain
+Group: Average Exp: 9.4Average Stamina: 8Returning members: 3
+Melamie
+Tilly
+Maddie
+Heida
+Alan
+Group: Average Exp: 8.6Average Stamina: 8.4Returning members: 4
+Ally
+Ferne
+Calida
+Marlyn
+Suzann
+Group: Average Exp: 9.8Average Stamina: 6.4Returning members: 1
+Penn
+Devondra
+Jerri
+Sanford
+Corie
+Group: Average Exp: 8.8Average Stamina: 7.8Returning members: 2
+Monroe
+Margurite
+Sherie
+Obadiah
+Roseanna
+Group: Average Exp: 8.6Average Stamina: 8.4Returning members: 2
+Mandie
+Kettie
+Beauregard
+Lev
+Bertha
+Group: Average Exp: 8.6Average Stamina: 6.6Returning members: 2
+Derrol
+Angelle
+Frannie
+Isabel
+Marjorie
+Group: Average Exp: 9.4Average Stamina: 8.6Returning members: 2
+Carroll
+Raye
+Dori
+Eimile
+Winnie
+Group: Average Exp: 9.4Average Stamina: 7.8Returning members: 2
+Hedy
+Beverly
+Cliff
+Niels
+Tallie
+Group: Average Exp: 9Average Stamina: 8.8Returning members: 4
+Marlie
+Ludwig
+Nicolle
+Northrup
+Jenny
+Group: Average Exp: 8.8Average Stamina: 8.6Returning members: 2
+Er
+Candy
+Aubree
+Sherill
+Marcelo
+Group: Average Exp: 7.2Average Stamina: 7.8Returning members: 1
+Venita
+Lusa
+Shalne
+Kassandra
+Raf
+Group: Average Exp: 9Average Stamina: 8.6Returning members: 3
+Else
+Ely
+Partha
+Irma
+Roslyn
+Group: Average Exp: 9.2Average Stamina: 8Returning members: 3
+Jeanelle
+Agatha
+Rosanne
+Peyton
+Annabela
+Group: Average Exp: 9.4Average Stamina: 8.8Returning members: 4
+Em
+Nicki
+Hadria
+Trudi
+Carolann
+Group: Average Exp: 9.6Average Stamina: 8.6Returning members: 2
+Aridatha
+Laurella
+Anna-Diana
+Inge
+Blythe
+Group: Average Exp: 8.8Average Stamina: 8.4Returning members: 2
+Gerta
+Brana
+Joni
+Yancy
+Karlyn
+Group: Average Exp: 7.4Average Stamina: 8.8Returning members: 2
+Coral
+Newton
+Sara-Ann
+Cy
+Krystal
+Group: Average Exp: 9.4Average Stamina: 8.2Returning members: 3
+Nettie
+Nannette
+Rogers
+Pam
+Adora
+Group: Average Exp: 9Average Stamina: 8Returning members: 3
+Elna
+Ewan
+Joao
+Robin
+Monique
+Group: Average Exp: 9.2Average Stamina: 9.2Returning members: 1
+Meredeth
+Elicia
+Oran
+Cissy
+Kelcey
+Group: Average Exp: 8.8Average Stamina: 8.4Returning members: 1
+Morganne
+Kimball
+Tracey
+Trever
+Jamey
+Group: Average Exp: 9.6Average Stamina: 8.4Returning members: 2
+Natalee
+Gerty
+Jerrome
+Francis
+Evangelin
+Group: Average Exp: 8Average Stamina: 7.6Returning members: 3
+Juliann
+Ivie
+Thad
+Rana
+Beatriz
+Group: Average Exp: 9Average Stamina: 8.2Returning members: 1
+Tarzan
+Mariya
+Tammie
+Marysa
+Kristian
+Group: Average Exp: 8.8Average Stamina: 9.2Returning members: 2
+Sybille
+Tiffi
+Alameda
+Lyn
+Tommi
+Group: Average Exp: 9.2Average Stamina: 8.2Returning members: 2
+Avram
+Briteny
+Roxine
+Clemente
+Ninnette
+Group: Average Exp: 9Average Stamina: 8.6Returning members: 2
+Friedrich
+Brunella
+Breanne
+Cherey
+Darda
+Group: Average Exp: 8.6Average Stamina: 9Returning members: 1
+Larissa
+Jorey
+Ephrem
+Audry
+Izzi
+Group: Average Exp: 8.8Average Stamina: 7.4Returning members: 2
+Carlene
+Justina
+Aileen
+Isidore
+Keefe
+Group: Average Exp: 8.8Average Stamina: 8.8Returning members: 1
+Maria
+Brigida
+Kane
+Samuele
+Trip
+Group: Average Exp: 9Average Stamina: 8.2Returning members: 3
+Fortune
+Madelyn
+Bartholomeo
+Row
+Gaven
+Group: Average Exp: 9.2Average Stamina: 7.8Returning members: 2
+Veronique
+Heddi
+Sabine
+Sybilla
+Robbyn
+Group: Average Exp: 9.6Average Stamina: 9Returning members: 4
+Samson
+Haskell
+Florian
+Ward
+Giorgi
+Group: Average Exp: 7.2Average Stamina: 8.2Returning members: 2
+Dulcia
+Esta
+Doralynne
+Buck
+Francesmary
+Group: Average Exp: 9.4Average Stamina: 8.2Returning members: 1
+Lena
+Avraham
+Porter
+Adel
+Thedrick
+Group: Average Exp: 9Average Stamina: 8Returning members: 2
+Keriann
+Teriann
+Maribel
+Konstantin
+Krysta
+Group: Average Exp: 8.8Average Stamina: 8.4Returning members: 2
+Emmye
+Aleksandrs
+Madalyn
+Missie
+Cristine
+Group: Average Exp: 8.6Average Stamina: 8.8Returning members: 1
+Kynthia
+Reinhold
+Elias
+Eleonore
+Morris
+Group: Average Exp: 9Average Stamina: 8.8Returning members: 2
+Rickie
+Lorenza
+Georgina
+Mariele
+Kamilah
+Group: Average Exp: 8.8Average Stamina: 8.8Returning members: 3
+Maisey
+Starr
+Tomasina
+Mildrid
+Lebbie
+Group: Average Exp: 7.2Average Stamina: 7.6Returning members: 2
+Peter
+Dorisa
+Hermina
+Pepito
+Krystalle
+Group: Average Exp: 9Average Stamina: 8.2Returning members: 4
+Ellissa
+Jade
+Anette
+Averell
+Clayborn
+Group: Average Exp: 8.8Average Stamina: 8.6Returning members: 4
+Valeda
+Yolande
+Abbie
+Dyanne
+Rea
+Group: Average Exp: 7.6Average Stamina: 8.2Returning members: 1
+Katusha
+Nixie
+Tiphani
+Margie
+Cristie
+Group: Average Exp: 7.6Average Stamina: 7.8Returning members: 2
+Gaby
+Codee
+Shay
+Cassondra
+Kristel
+Group: Average Exp: 9.4Average Stamina: 7.8Returning members: 1
+Gwenn
+Herculie
+Dasie
+Shanna
+Teressa
+Group: Average Exp: 9Average Stamina: 9.2Returning members: 4
+Rachael
+Kip
+Hollie
+Kamila
+Kin
+Group: Average Exp: 7.8Average Stamina: 7Returning members: 3
+Bertine
+Tracy
+Minetta
+Dorolice
+Barbara
+Group: Average Exp: 9Average Stamina: 8.2Returning members: 2
+Foster
+Madel
+Mugsy
+Aurilia
+Olva
+Group: Average Exp: 9Average Stamina: 8Returning members: 2
+Brigitte
+Odette
+Baxter
+Alisa
+Ranique
+Group: Average Exp: 9.2Average Stamina: 9Returning members: 3
+Pavla
+Lincoln
+Fan
+Mathilde
+Leonie
+Group: Average Exp: 9.2Average Stamina: 8.4Returning members: 3
+Dawn
+Hercule
+Elsey
+Abe
+Wynny
+Group: Average Exp: 9.2Average Stamina: 7.6Returning members: 2
+Collete
+Iseabal
+Minny
+Ketty
+Carlye
+Group: Average Exp: 8.8Average Stamina: 8Returning members: 3
+Rachele
+Adorne
+Jacquenetta
+Josie
+Carree
+Group: Average Exp: 8.8Average Stamina: 8.6Returning members: 4
+Terrence
+Christiano
+Ronny
+Rabi
+Rice
+Group: Average Exp: 8.8Average Stamina: 7.8Returning members: 3
+Dawna
+Blinni
+Cyrus
+Mindy
+Woodman
+Group: Average Exp: 9Average Stamina: 8.8Returning members: 4
+Stearn
+Edin
+Noble
+Ernest
+Alley
+Group: Average Exp: 9Average Stamina: 8.6Returning members: 2
+Annalena
+Myrtle
+Bernadine
+Rand
+Claudio
+Group: Average Exp: 5.4Average Stamina: 6.8Returning members: 2
+Prudi
+Kerstin
+Evvy
+Sergio
+Shawn
+Group: Average Exp: 6.2Average Stamina: 5.4Returning members: 4
+Linnet
+Candra
+Aharon
+Guglielma
+Rosalie
+Group: Average Exp: 5Average Stamina: 7Returning members: 3
+Wendi
+Karoline
+Josselyn
+Desiree
+Theodore
+Group: Average Exp: 5.8Average Stamina: 5.4Returning members: 3
+Gwenette
+Hewet
+Teodoro
+Michaella
+Roselia
+Group: Average Exp: 5.4Average Stamina: 5.6Returning members: 3
+Saree
+Leontine
+Charleen
+Luella
+Vernon
+Group: Average Exp: 6.4Average Stamina: 5.4Returning members: 3
+Winonah
+Quent
+Hartwell
+Debbra
+Hillard
+Group: Average Exp: 5.2Average Stamina: 5.6Returning members: 3
+Anabella
+Alvin
+Adlai
+Krista
+Shalna
+Group: Average Exp: 6.6Average Stamina: 5.4Returning members: 3
+Avie
+Ilona
+Sheba
+Selene
+Linnell
+Group: Average Exp: 5.8Average Stamina: 6.6Returning members: 3
+Marglerite
+Alissa
+Roch
+Rustin
+Reagan
+Group: Average Exp: 6.6Average Stamina: 5.4Returning members: 3
+Shem
+Rani
+Kandace
+Wendy
+Ciel
